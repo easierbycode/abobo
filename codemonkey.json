@@ -1,0 +1,102 @@
+{
+  "recommendedButtons": {
+    "mapping": {
+      "dpad": {
+        "up": {
+          "gamepadButton": 12,
+          "keyboardKey": "ArrowUp",
+          "keyCode": 38
+        },
+        "down": {
+          "gamepadButton": 13,
+          "keyboardKey": "ArrowDown",
+          "keyCode": 40
+        },
+        "left": {
+          "gamepadButton": 14,
+          "keyboardKey": "ArrowLeft",
+          "keyCode": 37
+        },
+        "right": {
+          "gamepadButton": 15,
+          "keyboardKey": "ArrowRight",
+          "keyCode": 39
+        }
+      },
+      "face": {
+        "btnBottom": {
+          "gamepadButton": 0,
+          "keyboardKey": "a",
+          "keyCode": 65
+        },
+        "btnRight": {
+          "gamepadButton": 1,
+          "keyboardKey": "c",
+          "keyCode": 67
+        },
+        "btnLeft": {
+          "gamepadButton": 2,
+          "keyboardKey": "s",
+          "keyCode": 83
+        },
+        "btnTop": {
+          "gamepadButton": 3,
+          "keyboardKey": " ",
+          "keyCode": 32
+        }
+      },
+      "shoulder": {
+        "leftShoulder": {
+          "gamepadButton": 4,
+          "keyboardKey": "q",
+          "keyCode": 81
+        },
+        "rightShoulder": {
+          "gamepadButton": 5,
+          "keyboardKey": "e",
+          "keyCode": 69
+        },
+        "leftTrigger": {
+          "gamepadButton": 6,
+          "keyboardKey": "r",
+          "keyCode": 82
+        },
+        "rightTrigger": {
+          "gamepadButton": 7,
+          "keyboardKey": "t",
+          "keyCode": 84
+        }
+      },
+      "special": {
+        "select": {
+          "gamepadButton": 8,
+          "keyboardKey": "Backspace",
+          "keyCode": 8
+        },
+        "start": {
+          "gamepadButton": 9,
+          "keyboardKey": "Enter",
+          "keyCode": 13
+        },
+        "leftStick": {
+          "gamepadButton": 10,
+          "keyboardKey": "p",
+          "keyCode": 80
+        },
+        "rightStick": {
+          "gamepadButton": 11,
+          "keyboardKey": "g",
+          "keyCode": 71
+        },
+        "home": {
+          "gamepadButton": 16,
+          "keyboardKey": "h",
+          "keyCode": 72
+        }
+      }
+    },
+    "useWASD": {
+      "DualSense Wireless Controller (STANDARD GAMEPAD Vendor: 054c Product: 0ce6)": false
+    }
+  }
+}
